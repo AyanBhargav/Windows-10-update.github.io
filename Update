@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Windows 10 latest update</title>
+        <style>
+            #November-2021{
+                width: 60%;
+                height: 50px;
+                overflow: auto;
+                background-color: aquamarine;
+                border: solid 3px blue;
+                padding: 6px;
+            }
+            #May-2021{
+                width: 60%;
+                height: 50px;
+                overflow: auto;
+                background-color: aquamarine;
+                border: solid 3px blue;
+                padding: 6px;
+            }
+            #October-2020{
+                width: 60%;
+                height: 100px;
+                overflow: auto;
+                background-color: aquamarine;
+                border: solid 3px blue;
+                padding: 6px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>April 25, 2022—KB5011831 (OS Builds 19042.1682, 19043.1682, and 19044.1682) Preview</h1>
+        <h2>Highlights</h2>
+        <ul>
+            <li>Updates an issue that causes Internet Explorer to stop working when you copy and paste text using an Input Method Editor (IME). </li>
+            <li>Updates an issue that displays a black screen for some users when they sign in or sign out.</li>
+            <li>Updates an issue that might cause a Microsoft OneDrive file to lose focus after you rename it and press the Enter key.</li>
+            <li>Updates an issue that causes the news and interest panel to appear when you haven’t clicked, tapped, or moused over it.</li>
+            <li>Updates an issue that prevents you from changing a password that has expired when you sign in to a Windows device. </li>
+        </ul>
+
+        <h2>Improvements</h2>
+        <h3 style="background-color: aquamarine; width: 200px; padding: 6px;">Windows 10, version 21H2</h3>
+        <div id="November-2021">
+        <p>This non-security update includes quality improvements. Key changes include:</p>
+        <ul>
+            <li>This build includes all the improvements from Windows 10, version 20H2.</li>
+            <li>No additional issues were documented for this release. </li>
+        </ul>
+        </div>
+        <h3 style="background-color: aquamarine; width: 200px; padding: 6px;">Windows 10, version 21H1</h3>
+        <div id="May-2021">
+        <p>This non-security update includes quality improvements. Key changes include:</p>
+        <ul>
+            <li>This build includes all the improvements from Windows 10, version 20H2.</li>
+            <li>No additional issues were documented for this release. </li>
+        </ul>
+        </div>
+        <h3 style="background-color: aquamarine; width: 200px; padding: 6px;">Windows 10, version 20H2</h3>
+        <div id="October-2020">
+            <p>This non-security update includes quality improvements. Key changes include:</p>
+            <ul>
+                <li><strong>New!</strong> Adds improvements for servicing the Secure Boot component of Windows.</li>
+                <li>Changes the timeout for Azure Active Directory (Azure AD) registration from 60 minutes to 90 minutes for hybrid Azure AD-joined Autopilot scenarios. This also addresses a race condition that causes an exception at timeout.</li>
+                <li>Addresses an issue that causes a remote desktop session to close or a reconnection to stop responding while waiting on the accessibility shortcut handler (sethc.exe).</li>
+                
+            </ul>
+        </div>
+    </body>
+</html>
